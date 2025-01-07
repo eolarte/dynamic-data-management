@@ -1,0 +1,1961 @@
+ciekawie
+interestingly, in an interesting way
+
+nudno
+boring
+
+jasno
+bright, clearly
+
+brudno
+dirty
+
+ciemno
+dark, darkly
+
+czysto
+clean
+
+wcześnie
+early
+
+daleko
+far, far away, away
+
+świetnie
+brilliant, excellent, excellently
+
+wolno
+you are allowed to, is permitted, slowly
+
+późno
+late
+
+szybko
+quick, quickly, fast
+
+codziennie
+each day, every day, daily
+
+źle
+bad, badly, wrong
+
+może
+can, might, perhaps
+
+zupełnie
+entirely, at all, brand
+
+na pewno
+are you sure (that) ... ?, surely, undoubtedly
+
+już
+only, yet, already
+
+jeszcze
+still, else, yet
+
+inaczej
+in a different way, differently, different
+
+zwłaszcza
+especially, chiefly, notably
+
+zwykle
+usually
+
+czasami
+sometimes, occasionally, from time to time
+
+naprawdę
+truly, really, actually
+
+raczej
+rather, quite
+
+nawet
+even
+
+gdzieś
+somewhere, someplace
+
+wciąż
+still, is still
+
+znów
+again
+
+nigdy
+never, ever
+
+razem
+time, together
+
+dość
+quite, enough, pretty
+
+też
+neither, too, also
+
+zawsze
+always, ever, forever
+
+teraz
+now, now―from
+
+zbyt
+too
+
+często
+frequently, often
+
+rzadko
+rarely
+
+tam
+there, over there
+
+bardzo
+very much, great, really
+
+tutaj
+in here, here
+
+ani
+neither, or, nor
+
+jednak
+however, after all, but
+
+zamiast
+instead of
+
+chociaż
+although, though, even though
+
+a
+whereas, while, and
+
+ponieważ
+because, for, as
+
+więc
+so, therefore
+
+albo
+or, either
+
+lub
+or
+
+jeśli
+if
+
+bo
+because, since, as
+
+dlatego
+so, therefore, that is why
+
+ale
+yet, and yet, but
+
+że
+that
+
+jak
+like, while, how do
+
+adam
+Adam
+
+jacek
+Jacek, jack
+
+marta
+Marta, Martha
+
+imię
+name, the name, first name
+
+julia
+julie, Julia, juliet
+
+nazwisko
+name, surname, last name
+
+obywatel
+citizen (sg.) (nom.), citizen
+
+fundacja
+foundation (nom.), foundation
+
+para
+pair, a couple, couple
+
+konferencja
+conference, a conference, the conference
+
+partner
+partner
+
+sąsiad
+neighbor
+
+młodzież
+young people, the youth
+
+gość
+a guy, guy, guest
+
+naród
+nation
+
+osoba
+a person, person, the person
+
+kultura
+culture
+
+związek
+relationship, union, the relationship
+
+ofiara
+victim, sacrifice
+
+wieś
+village, countryside
+
+społeczeństwo
+public, society
+
+kolega
+friend, classmate
+
+grupa
+group, a group, the group
+
+wróg
+enemy, the enemy
+
+przyjaciel
+friend
+
+znajomy
+friend, familiar, acquaintance
+
+dziewczyna
+girl, a girl, girlfriend
+
+dorosły
+adult (sg. masc. Nom.), an adult, adult
+
+chłopak
+boyfriend, the boy, boy
+
+plastikowy
+plastic
+
+sławny
+famous
+
+wąski
+narrow (sg. m., Acc.), narrow
+
+metalowy
+metal (sg. m., Nom.), metal
+
+szeroki
+wide
+
+drewniany
+wooden
+
+wesoły
+cheerful, happy
+
+smutny
+sad
+
+suchy
+dry
+
+mokry
+wet (sg. masc. Nom.), wet
+
+słaby
+weak
+
+silny
+strong, severe
+
+ciekawy
+interesting
+
+darmowy
+free (of charge), free
+
+nudny
+boring (sg. m., Nom.), boring
+
+wygodny
+convenient, comfortable
+
+drogi
+dear, paths, road
+
+tani
+cheap
+
+ciężki
+heavy, severe
+
+krótki
+short, brief
+
+lekki
+light (weight), light, slight
+
+piękny
+beautiful
+
+długi
+long, debts
+
+brzydki
+ugly
+
+wspaniały
+excellent, wonderful, great
+
+młody
+young
+
+wysoki
+high, tall
+
+popularny
+popular, successful
+
+niski
+deep, short (height), low
+
+miły
+kind, nice, sweet
+
+jasny
+bright, bright (sg. m., Nom.), clear
+
+cały
+entire, whole, all
+
+idealny
+perfect, ideal
+
+brudny
+dirty, dirty (sg. m., Nom.), muddy
+
+ciemny
+dark
+
+czysty
+clean, pure
+
+normalny
+normal
+
+następny
+the next, next
+
+bogaty
+rich, wealthy
+
+biedny
+poor
+
+ważny
+important
+
+poprzedni
+previous, prior
+
+inny
+other, another, else
+
+panowie
+men, you (formal), gentlemen
+
+pani
+madam, Miss, ms
+
+panie
+Mr., ladies, women
+
+państwo
+people, a country, state
+
+pan
+your, gentleman, man
+
+rolnik
+farmer, the farmer, a farmer
+
+zatrudniać
+to hire, hire, employ
+
+kucharz
+cook, a cook, chef
+
+kelner
+server, the server, a waiter
+
+architekt
+architect, the architect
+
+inżynier
+engineer, the engineer, an engineer
+
+zawód
+the profession, profession, a profession
+
+ochroniarz
+a guard, the guard, guard
+
+aktor
+actor, the actor, an actor
+
+sędzia
+judge, referee, the judge
+
+kapitan
+captain, a captain, the captain
+
+pisarz
+writer, the writer
+
+pracownik
+employee, worker
+
+żołnierz
+soldier, the soldier
+
+szef
+the boss, boss, a boss
+
+prawnik
+lawyer, a lawyer, the lawyer
+
+policjant
+police officer, the police officer, policeman
+
+uczeń
+pupil, a pupil, the pupil
+
+sekretarka
+secretary, a secretary
+
+artysta
+the artist, artist, an artist
+
+policja
+police, the police
+
+robotnik
+(manual) worker, laborer, worker
+
+dyrektor
+director, manager, principal
+
+jako
+as
+
+model
+model, the model
+
+personel
+staff, personnel, the staff
+
+praca
+work, the work, thesis
+
+lekarz
+doctor, a doctor
+
+pracować
+work, to work, working
+
+student
+student, the student
+
+podczas
+while, during, in
+
+według
+according to
+
+blisko
+close to, near, almost
+
+przez
+because, through, for
+
+obok
+past, near, next to
+
+wśród
+among, in
+
+pod
+under, with, for
+
+naprzeciwko
+opposite
+
+nad
+over, above, by
+
+przy
+with, at, over
+
+oprócz
+except, but, except for
+
+u
+at, to, of
+
+warzywa
+vegetables, veggies
+
+bez
+without
+
+za
+through, past, behind
+
+po
+past, for, upon
+
+stać
+stand, stay, afford
+
+przed
+in front of, before, ahead
+
+leżeć
+lie
+
+o
+with, for, at
+
+dla
+for, to
+
+od
+from, with, off
+
+pomiędzy
+between, among
+
+na
+onto, for, per
+
+z
+with, off, made from
+
+dzwonek
+bell, doorbell, the bell
+
+flaga
+flag, the flag
+
+sufit
+ceiling
+
+przedmiot
+object, thing, subject
+
+maszyna
+machine, the machine, a machine
+
+koc
+blanket, a blanket, the blanket
+
+papier
+paper
+
+nożyczki
+scissors
+
+kartka
+card, sheet
+
+czasopismo
+the magazine, a magazine, magazine
+
+gazeta
+newspaper, the newspaper, a newspaper
+
+fotel
+armchair, chair
+
+kawałek
+piece, slice, bit
+
+talerz
+a plate, plate, the plate
+
+patelnia
+pan, the pan, frying pan
+
+kubek
+mug, cup
+
+nóż
+knife, the knife, a knife
+
+lodówka
+fridge, refrigerator
+
+widelec
+fork, a fork, the fork
+
+szklanka
+glass, a glass, the glass
+
+dach
+roof, the roof
+
+szafa
+closet, wardrobe, cabinet
+
+rzecz
+thing, a thing
+
+klucz
+key, a key, the key
+
+kuchenka
+cooker, stove
+
+podłoga
+floor, the floor
+
+ściana
+the wall, wall, a wall
+
+pudełko
+box, a box, the box
+
+torba
+bag, the bag
+
+portfel
+wallet, a wallet
+
+basen
+pool, the pool, swimming pool
+
+parasol
+an umbrella, umbrella, the umbrella
+
+dywan
+carpet (Acc.), rug (Acc.), rug (Nom.)
+
+kosz
+basket, bin
+
+gąbka
+sponge
+
+szczoteczka do zębów
+toothbrush
+
+mydło
+soap
+
+golarka
+razor, shaver
+
+prysznic
+shower (Nom.), shower (Acc.)
+
+wanna
+bathtub, tub, bath
+
+pasta do zębów
+toothpaste, the toothpaste
+
+sofa
+sofa
+
+drzwi
+a door, door, the doors
+
+biurko
+desk
+
+lampa
+lamp
+
+okno
+window, a window, the window
+
+prześcieradło
+a sheet, a bedsheet, sheet
+
+poduszka
+pillow (Nom.), pillow, cushion
+
+bateria
+battery, the battery
+
+okulary
+eyeglasses, glasses
+
+zegarek
+a watch, watch, the watch
+
+telefon
+telephone, a phone, the telephone
+
+ekran
+screen, the screen, a screen
+
+komórka
+cellphone
+
+zegar
+clock, the clock, a clock
+
+telewizor
+television, a TV, the television
+
+lustro
+mirror, a mirror, the mirror
+
+pokój
+room, a room, peace
+
+łóżko
+the bed, bed, a bed
+
+komputer
+a computer, computer, the computer
+
+radio
+radio, the radio, a radio
+
+butelka
+bottle, a bottle
+
+miska
+bowl, the bowl, a bowl
+
+łyżka
+spoon, a spoon
+
+krzesło
+chair, a chair
+
+stół
+the table, table, a table
+
+chwila
+moment, bit, minute
+
+impreza
+the party, party
+
+dekada
+decade, a decade
+
+pokolenie
+generation
+
+urodziny
+birthday, birthdays
+
+sekunda
+the second, second, a second
+
+pora roku
+season, a season
+
+wiosna
+spring, springtime
+
+okres
+period, period of time, time
+
+minuta
+minute
+
+jesień
+fall, the fall, autumn
+
+zima
+winter, the winter, a winter
+
+lato
+summer, a summer, summertime
+
+listopad
+November
+
+grudzień
+December
+
+lipiec
+July
+
+wrzesień
+September
+
+październik
+October
+
+sierpień
+August
+
+luty
+February
+
+kwiecień
+April
+
+czerwiec
+June
+
+maj
+May
+
+data
+the date, date, a date
+
+marzec
+March
+
+styczeń
+January
+
+godzina
+time, an hour, hour
+
+wiek
+the century, the age, a century
+
+sobota
+Saturday
+
+tydzień
+week, the week, a week
+
+rok
+year, a year, the year
+
+niedziela
+Sunday
+
+miesiąc
+month, a month
+
+weekend
+weekend
+
+w
+through, with, inside
+
+dzień
+day, the day, a day
+
+piątek
+Friday
+
+wtorek
+Tuesday
+
+środa
+Wednesday
+
+poniedziałek
+Monday
+
+czwartek
+Thursday
+
+kalendarz
+a calendar, calendar, the calendar
+
+po południu
+in the afternoon, p.m., afternoon
+
+czas
+tense, time, the time
+
+rano
+morning, in the morning, a.m.
+
+noc
+night
+
+dziś
+today, today's
+
+wieczorem
+night, in the evening, evening
+
+jutro
+tomorrow
+
+dostać
+to receive, get, gotten
+
+brać
+take
+
+sprzedawać
+to sell, sell, selling
+
+dostarczać
+provide, providing
+
+wychowywać
+raising
+
+szanować
+respecting
+
+pić
+drink, to drink
+
+gotować
+to cook, cooking, cook
+
+jeść
+to eat, eat, eating
+
+kupować
+buy, shop, buying
+
+produkować
+produce, to produce
+
+szukać
+to look for, seek, to search for
+
+czytać
+read, to read, reading
+
+wspierać
+support, supporting
+
+pamiętać
+remember, remembering
+
+odwiedzać
+to visit, visit
+
+dotykać
+touch, touching
+
+kroić
+to cut, slicing, cut
+
+robić
+making, make, to do
+
+nieść
+carry, carried
+
+spać
+sleep, to sleep, sleeping
+
+odpowiedź
+answer, the answer, response
+
+który
+that, who, which
+
+kto
+who, who is
+
+czyj
+whose
+
+jaki
+like, what kind of, which
+
+dlaczego
+why, why is, why do
+
+gdzie
+where, where did, where do
+
+kiedy
+when, when do, while
+
+pytanie
+question, a question, the question
+
+co
+what, what do, what are
+
+kolorowy
+colorful
+
+fioletowy
+purple, violet
+
+szary
+gray, grey
+
+brązowy
+brown, bronze
+
+pomarańczowy
+orange
+
+różowy
+pink
+
+biały
+white
+
+czerwony
+red
+
+czarny
+black
+
+kolor
+color, the color
+
+żółty
+yellow
+
+niebieski
+blue
+
+zielony
+green
+
+rodzeństwo
+a sibling, sibling, siblings
+
+rodzic
+parent
+
+małżeństwo
+marriage, the marriage, marriages
+
+dziadek
+grandpa, grandfather
+
+babcia
+grandmother, grandma, the grandmother
+
+rodzina
+family, the family
+
+wujek
+uncle
+
+ciocia
+aunt
+
+mąż
+husband, the husband
+
+żona
+a wife, the wife, wife
+
+syn
+son
+
+siostra
+sister
+
+mama
+mom, mother
+
+tata
+dad
+
+brat
+brother
+
+córka
+daughter
+
+słuchamy
+listen, are listening to, are listening
+
+słuchają
+listen, are listening, listen to
+
+słucha
+listens, listens to, is listening
+
+słucham
+listen to, listen, am listening to
+
+słuchacie
+listening, (you) listen, (you) are listening
+
+słuchasz
+listen, are listening, listen to
+
+muzyka
+the music, music
+
+potrzebują
+need, they need
+
+potrzebuję
+need
+
+potrzebujemy
+need
+
+potrzebuje
+needs, need
+
+potrzebujecie
+need
+
+potrzebujesz
+need, you'll
+
+chodzisz
+(you) go (on foot), go, (you) walk
+
+chodzą
+walk, go, are walking
+
+chodzimy
+go, walking, are going
+
+chodzi
+walks, is walking, goes
+
+chodzicie
+(you) go (on foot), go, (you) walk
+
+chodzę
+go, walk
+
+do
+up to, through, till
+
+idę
+am going, go, am walking
+
+idziesz
+(you) are going (on foot), (you) are walking
+
+idzie
+is walking, is coming, is going
+
+idą
+are going, are walking
+
+idziecie
+(you) are going (on foot), (you) are walking
+
+idziemy
+are walking, are going
+
+dom
+home, a house, the house
+
+szkoła
+school, a school
+
+go
+him, it, he
+
+ją
+her, it
+
+was
+you
+
+nas
+us
+
+mnie
+me
+
+ciebie
+you
+
+cię
+you
+
+jego
+him, it, he
+
+ich
+they, theirs, their
+
+jej
+she, of her, her
+
+twoi
+your, yours
+
+moi
+mine, my
+
+nasi
+our, ours
+
+wasi
+your, yours
+
+moje
+mine, my
+
+wasze
+your, yours
+
+twoje
+your, yours
+
+nasze
+our, ours
+
+nasza
+our, ours
+
+twoja
+your, yours
+
+wasza
+your, yours
+
+moja
+mine, my
+
+wasz
+your, yours
+
+nasz
+our, ours, s
+
+twój
+your, yours
+
+mój
+mine, my
+
+mężczyzny
+man, the man
+
+zupy
+soup, the soup, soups
+
+tamtej
+that, that one
+
+tej
+the, this, that
+
+koszuli
+shirt, a shirt
+
+kawy
+some coffee, of coffee, the coffee
+
+słyszysz
+can hear, hear
+
+konia
+the horse, horse, horse's
+
+słyszycie
+hear, can hear
+
+słyszą
+hear
+
+słyszymy
+hear, can hear
+
+słyszy
+hears, hear, can hear
+
+słyszę
+hear, can hear
+
+głos
+voice, vote
+
+list
+the letter, a letter, letter
+
+pisze
+typing, is writing, write
+
+piszemy
+write, we are writing
+
+piszesz
+do you write, are writing, write
+
+piszę
+i've, write, am writing
+
+piszecie
+are writing, write
+
+książka
+a book, the book, book
+
+tamtego
+that, of that
+
+znam
+know, have known, known
+
+kobietę
+woman, the woman, a woman
+
+znacie
+know
+
+znasz
+know, do you know
+
+znamy
+know
+
+zna
+know, knows
+
+znają
+know
+
+mężczyznę
+a man, man, the man
+
+tego
+this, of the, the
+
+kochają
+love
+
+kochacie
+(you) love, love
+
+kocham
+i've, love, loving
+
+kochasz
+love
+
+kochamy
+love, we love
+
+kocha
+loves, is in love with, love
+
+widzimy
+see, can see
+
+chłopca
+of the boy, boy, the boy
+
+widzą
+see, can see
+
+psa
+dog, a dog, dog's
+
+widzicie
+see, can you see, you see
+
+widzisz
+you can see, can you see, you see
+
+widzę
+see, can see
+
+kota
+cat, a cat, cat’s
+
+widzi
+sees, see, can see
+
+mówią
+are saying, are talking, are speaking
+
+mówicie
+speak, (you pl.) are speaking, (you pl.) are saying
+
+mówimy
+speak, tell, are saying
+
+nosimy
+wear, carry
+
+noszą
+wear, carry, worn
+
+nosicie
+(you) wear, (you) carry, wear
+
+kurtka
+jacket, coat
+
+majtki
+pants, underpants, underwear
+
+czapka
+beanie, cap, (baseball) hat
+
+spódnica
+skirt, the skirt, a skirt
+
+spodnie
+trousers, pants
+
+ubrania
+clothes, clothing
+
+kapelusz
+hat, the hat, a hat
+
+but
+shoe
+
+bluza
+(not a blouse!), sweatshirt, jumper
+
+nosisz
+wear, you wear, carry
+
+nosi
+wears, wear, carries
+
+noszę
+wear, I wear, carry
+
+płaszcz
+coat, a coat, overcoat
+
+sukienka
+a dress, the dress, dress
+
+koszula
+shirt, the shirt, a shirt
+
+tamte
+that, those
+
+te
+the, that, these
+
+ci
+you, for you, to you
+
+tamci
+those
+
+jesteśmy
+we are, are, re
+
+kobietami
+women, the women
+
+mężczyznami
+men
+
+dziećmi
+children, kids, babies
+
+ludźmi
+people, humans
+
+jesteście
+are, were
+
+mali
+small, little
+
+dobrzy
+good
+
+źli
+bad, evil, angry
+
+duzi
+big (pl. masc. Nom.), large, big
+
+nowi
+new
+
+starzy
+old
+
+pomidory
+tomatoes
+
+ryby
+the fish, fish, fishes
+
+ciasteczko
+cookie (Acc.), cookie (Nom.), cookie
+
+zwierzęta
+animals, the animals
+
+kanapki
+sandwiches, sandwich, the sandwiches
+
+ludzie
+people, humans, folks
+
+kaczki
+ducks, the ducks, duck's
+
+są
+is, there are, re
+
+koty
+cats, the cats
+
+konie
+horses, the horses
+
+jabłka
+apples, apple, the apples
+
+psy
+dogs
+
+nowa
+new, recent, the new
+
+nowy
+new, recent
+
+stare
+old
+
+stara
+old, elderly
+
+nowe
+new
+
+stary
+old, elderly
+
+dobry
+fine, right, good
+
+dobra
+fine, right, good
+
+zły
+bad, wrong, evil
+
+dobre
+positive, good, fine
+
+zła
+bad, wrong, evil
+
+złe
+bad, angry, wrong
+
+małe
+little, small
+
+duża
+big, large
+
+duży
+big, large
+
+duże
+large, big
+
+mały
+little, small
+
+mała
+small, little
+
+tę
+the, that, this
+
+tamtą
+that
+
+tamta
+that, that one
+
+tamten
+that, that one
+
+tamto
+that, that one
+
+ten
+this, that one, the one
+
+ta
+the, that, this
+
+warzywo
+vegetable, (a/the) vegetable
+
+psem
+dog, a dog
+
+czy
+is, am, were
+
+dzieckiem
+kid, child, baby
+
+tygrysem
+tiger (masc. Instr.)
+
+człowiek
+man, the man, a man
+
+kotem
+cat, the cat
+
+zwierzęciem
+animal, the animal, an animal
+
+to
+is, this, those are
+
+człowiekiem
+man, a man, a human
+
+mięso
+meat, the meat
+
+pomidora
+tomato, a tomato, the tomato
+
+zupę
+the soup, soup
+
+rybę
+fish, the fish, a fish
+
+ser
+cheese, the cheese
+
+pomidor
+tomato, the tomato, a tomato
+
+sok
+juice, the juice
+
+kanapkę
+sandwich, a sandwich, the sandwich
+
+kanapka
+sandwich, the sandwich, a sandwich
+
+smaczna
+tasty (sg. fem. Nom.)
+
+smaczny
+tasty, nice
+
+smaczne
+tasty
+
+zupa
+soup, the soup
+
+owoce
+fruits, fruit
+
+śniadanie
+breakfast
+
+posiłek
+meal, the meal, a meal
+
+kolację
+dinner, supper, a dinner
+
+kolacja
+supper, the supper, the dinner
+
+obiad
+lunch, dinner
+
+jedzenie
+food, eating, the food
+
+kawa
+coffee
+
+herbatę
+tea
+
+woda
+the water, water
+
+wino
+the wine, wine, a wine
+
+kawę
+coffee, a coffee, the coffee
+
+pijesz
+drink, you drink, are drinking
+
+herbata
+tea, the tea
+
+jajko
+egg, the egg, an egg
+
+jesz
+eat, do you eat, are eating
+
+pająk
+spider, a spider, the spider
+
+ryba
+a fish, some fish, the fish
+
+lew
+a lion, lion, the lion
+
+mysz
+a mouse, mouse, the mouse
+
+krab
+a crab, the crab, crab
+
+tygrys
+tiger (masc. Nom.), (a/the) tiger
+
+ptak
+a bird, the bird, bird
+
+zwierzę
+animal, an animal, the animal
+
+kot
+cat, the cat, a cat
+
+słoń
+elephant, the elephant, an elephant
+
+koń
+a horse, the horse, horse
+
+kaczka
+a duck, the duck, duck
+
+pies
+dog, a dog, the dog
+
+mówi
+says, is saying, is speaking
+
+po angielsku
+English, in English
+
+do widzenia
+goodbye
+
+mówię
+am talking, speak, tell
+
+po polsku
+Polish, in Polish
+
+mówisz
+are talking, speak, are saying
+
+dobrze
+well, fine, alright
+
+przepraszam
+sorry, I am sorry, excuse me
+
+dobranoc
+good night
+
+dzień dobry
+good morning, good afternoon, hello
+
+witaj
+hello, welcome
+
+pa
+bye
+
+nie
+do not, no, weren't
+
+tak
+like this, like, just
+
+dzięki
+thank, thanks to, thanks
+
+proszę
+I am asking, please, I ask
+
+dziękuję
+I thank, thanks, thank you
+
+cześć
+hello, hi, bye
+
+lubię
+like
+
+lubi
+like, likes, liking
+
+macie
+do you have, have
+
+lubią
+like, they like, likes
+
+lubisz
+like, enjoy
+
+wy
+you, you all
+
+lubimy
+like
+
+masz
+have, re
+
+one
+they, them
+
+oni
+they, them, are they
+
+jesteś
+are, re
+
+dzieci
+children's, children, of children
+
+ty
+you
+
+my
+we, us, 's
+
+mam
+have
+
+ma
+is, has got, have
+
+ciasteczka
+cookie, cookies
+
+mamy
+are going to, mom, mother
+
+jedzą
+are eating, eat
+
+mężczyźni
+men, the men
+
+kobiety
+woman, women, woman's
+
+chłopcy
+the boys, boys, little boys
+
+dziewczynki
+girls, little girls, of a girl
+
+dziecko
+baby, the child, my baby
+
+mają
+have, how's
+
+chłopcem
+boy, a boy, the boy
+
+piję
+drink, am drinking
+
+pije
+drink, is drinking, drinks
+
+chleb
+bread, the bread
+
+mleko
+milk
+
+i
+and
+
+dziewczynką
+girl, the girl, little girl
+
+wodę
+water, the water
+
+ona
+she, her, it
+
+jem
+eat, am eating
+
+jest
+is, there are, what is
+
+on
+it, he, him
+
+jestem
+am, I'm, feel
+
+kobietą
+woman, a woman, the woman
+
+mężczyzną
+a man, man, the man
+
+ja
+I, me
+
+jabłko
+apple, apple (neut. Nom.)
+
+dziewczynka
+girl, a girl, little girl
+
+kobieta
+woman, a woman, the woman
+
+chłopiec
+boy
+
+je
+eats, is eating, it
+
+mężczyzna
+man, man (Nom.)

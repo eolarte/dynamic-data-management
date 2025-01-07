@@ -1,0 +1,60 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-backend:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 6.0.x
+        
+    - name: Restore dependencies
+      run: |
+        cd CoreService
+        dotnet restore
+        
+    - name: Build
+      run: |
+        cd CoreService
+        dotnet build --no-restore
+        
+    - name: Test
+      run: |
+        cd CoreService
+        dotnet test --no-build --verbosity normal
+
+  build-frontend:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+        
+    - name: Install dependencies
+      run: |
+        cd ClientService
+        npm install
+        
+    - name: Build
+      run: |
+        cd ClientService
+        npm run build
+        
+    - name: Test
+      run: |
+        cd ClientService
+        npm test -- --passWithNoTests 
